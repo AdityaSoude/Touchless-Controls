@@ -15,5 +15,5 @@ Touchless Controls is a project designed to enable user interactions with applic
 
 - **Python:** Core programming language used for developing the gesture recognition algorithms.
 - **OpenCV:** Library utilized for computer vision tasks such as image processing and feature detection.
-- **TensorFlow/Keras:** Frameworks employed for building and training machine learning models.
+
 
